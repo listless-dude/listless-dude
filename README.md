@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Koushik Das aka @mr-oogway
-- 👀 I’m interested in ML/DL, and something new and interesting
-- 🌱 I’m currently learning Neural Style Transfer, DeepCNNs
-- 💞️ I’m looking to collaborate on maybe some end-to-end project
-- 📫 How to reach me: maybe Email
+- 👀 I’m interested in Deep Learning (learning and testing different architectures) and MLOps
+- 🌱 I’m currently learning Attention, Transformer Architectures, in NLP
+- 💞️ I’m looking to collaborate on some open-source or end-to-end project
 
 <!---
 mr-oogway/mr-oogway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
